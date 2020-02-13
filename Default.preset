@@ -115,8 +115,8 @@ DisableCortana                  # EnableCortana		# because she is annoying
 # ShowTaskManagerDetails          # HideTaskManagerDetails
 # ShowFileOperationsDetails       # HideFileOperationsDetails
 # EnableFileDeleteConfirm       # DisableFileDeleteConfirm
-# HideTaskbarSearch               # ShowTaskbarSearchIcon         # ShowTaskbarSearchBox
-# HideTaskView                    # ShowTaskView
+HideTaskbarSearch               # ShowTaskbarSearchIcon         # ShowTaskbarSearchBox
+HideTaskView                    # ShowTaskView
 # ShowSmallTaskbarIcons           # ShowLargeTaskbarIcons
 # SetTaskbarCombineWhenFull       # SetTaskbarCombineNever        # SetTaskbarCombineAlways
 # HideTaskbarPeopleIcon           # ShowTaskbarPeopleIcon
@@ -202,7 +202,7 @@ DisableEdgeShortcutCreation     # EnableEdgeShortcutCreation	# Chrome/Firefox
 # DisableMediaSharing             # EnableMediaSharing
 # EnableDeveloperMode           # DisableDeveloperMode
 # UninstallMediaPlayer          # InstallMediaPlayer
-# UninstallInternetExplorer     # InstallInternetExplorer
+UninstallInternetExplorer     # InstallInternetExplorer
 # UninstallWorkFolders          # InstallWorkFolders
 # UninstallPowerShellV2         # InstallPowerShellV2
 # InstallLinuxSubsystem         # UninstallLinuxSubsystem
