@@ -118,11 +118,11 @@ DisableCortana                  # EnableCortana		# because she is annoying
 HideTaskbarSearch               # ShowTaskbarSearchIcon         # ShowTaskbarSearchBox
 HideTaskView                    # ShowTaskView
 # ShowSmallTaskbarIcons           # ShowLargeTaskbarIcons
-# SetTaskbarCombineWhenFull       # SetTaskbarCombineNever        # SetTaskbarCombineAlways
+SetTaskbarCombineNever	# SetTaskbarCombineWhenFull               # SetTaskbarCombineAlways
 # HideTaskbarPeopleIcon           # ShowTaskbarPeopleIcon
 # ShowTrayIcons                   # HideTrayIcons
 # ShowSecondsInTaskbar          # HideSecondsFromTaskbar
-# DisableSearchAppInStore         # EnableSearchAppInStore
+DisableSearchAppInStore         # EnableSearchAppInStore
 # DisableNewAppPrompt             # EnableNewAppPrompt
 # HideRecentlyAddedApps         # ShowRecentlyAddedApps
 # HideMostUsedApps              # ShowMostUsedApps
@@ -143,18 +143,18 @@ DisableStartupSound           # EnableStartupSound
 
 ### Explorer UI Tweaks ###
 ShowExplorerTitleFullPath     # HideExplorerTitleFullPath		# because I like knowing where files are
-ShowKnownExtensions             # HideKnownExtensions			# because I like know what files are
+ShowKnownExtensions             # HideKnownExtensions			# because I like to know what files are
 # ShowHiddenFiles                 # HideHiddenFiles
 # ShowSuperHiddenFiles          # HideSuperHiddenFiles
 # ShowEmptyDrives               # HideEmptyDrives
 # ShowFolderMergeConflicts      # HideFolderMergeConflicts
 # EnableNavPaneExpand             # DisableNavPaneExpand
 # ShowNavPaneAllFolders         # HideNavPaneAllFolders
-# EnableFldrSeparateProcess     # DisableFldrSeparateProcess
+EnableFldrSeparateProcess     # DisableFldrSeparateProcess
 # EnableRestoreFldrWindows      # DisableRestoreFldrWindows
 # ShowEncCompFilesColor         # HideEncCompFilesColor
 # DisableSharingWizard          # EnableSharingWizard
-# HideSelectCheckboxes          # ShowSelectCheckboxes
+HideSelectCheckboxes          # ShowSelectCheckboxes
 # HideSyncNotifications           # ShowSyncNotifications
 # HideRecentShortcuts             # ShowRecentShortcuts
 # SetExplorerThisPC               # SetExplorerQuickAccess
@@ -226,7 +226,7 @@ UninstallInternetExplorer     # InstallInternetExplorer
 # EnableAudio                   # DisableAudio
 
 ### Unpinning ###
-# UnpinStartMenuTiles
+UnpinStartMenuTiles
 # UnpinTaskbarIcons
 
 ### Auxiliary Functions ###
